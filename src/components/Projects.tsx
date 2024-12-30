@@ -93,6 +93,17 @@ export default function Projects() {
             </motion.div>
           ))}
         </motion.div>
+        <div className="mt-12 text-center">
+          <a
+            href="https://github.com/dineshkottaKota" // Replace with your GitHub URL
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-6 py-3 bg-gray-800 text-white text-lg font-medium rounded-lg shadow hover:bg-gray-700 transition"
+          >
+            <Github className="w-6 h-6" />
+            More Projects
+          </a>
+        </div>
       </div>
 
       <ProjectModal
