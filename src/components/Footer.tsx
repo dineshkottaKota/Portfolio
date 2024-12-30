@@ -28,14 +28,6 @@ export default function Footer() {
               <Linkedin className="w-6 h-6" />
             </a>
             <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-400 hover:text-white transition-colors"
-            >
-              <Twitter className="w-6 h-6" />
-            </a>
-            <a
               href="mailto:dineshkottakota1234@gmail.com"
               className="text-gray-400 hover:text-white transition-colors"
             >
