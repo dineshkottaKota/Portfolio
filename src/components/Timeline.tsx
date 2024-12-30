@@ -40,7 +40,7 @@ export default function Timeline() {
                     <span className="inline-block px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-sm font-medium mb-2">
                       {item.year}
                     </span>
-                    <h3 className="text-xl font-bold text-gray-900 md:text-[30px]">{item.title}</h3>
+                    <h3 className="text-xl font-bold text-gray-900">{item.title}</h3>
                     <p className="text-indigo-600 font-medium">{item.company}</p>
                     {item.description.split(',').map((line, index) => (
   <p key={index} className="text-gray-600 mt-2">
