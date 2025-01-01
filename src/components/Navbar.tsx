@@ -48,13 +48,13 @@ export default function Navbar() {
               <a href="#projects" className="text-gray-700 hover:text-gray-900" onClick={() => setIsOpen(false)}>Projects</a>
               <a href="#contact" className="text-gray-700 hover:text-gray-900" onClick={() => setIsOpen(false)}>Contact</a>
               <div className="flex space-x-4 py-2">
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
+                <a href="https://github.com/dineshkottaKota" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
                   <Github className="w-5 h-5" />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
+                <a href="https://www.linkedin.com/in/dinesh-kottakota/" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
                   <Linkedin className="w-5 h-5" />
                 </a>
-                <a href="mailto:your.email@example.com" className="text-gray-700 hover:text-gray-900">
+                <a href="mailto:dineshkottakota1234@gmail.com" className="text-gray-700 hover:text-gray-900">
                   <Mail className="w-5 h-5" />
                 </a>
               </div>
