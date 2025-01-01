@@ -19,7 +19,7 @@ export default function Navbar() {
             <a href="#projects" className="text-gray-700 hover:text-gray-900 transition-colors">Projects</a>
             <a href="#contact" className="text-gray-700 hover:text-gray-900 transition-colors">Contact</a>
             <div className="flex items-center space-x-4">
-              <a href="https://github.com/dineshkottaKota target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900"> 
+              <a href="https://github.com/dineshkottaKota" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900"> 
                 <Github className="w-5 h-5" />
               </a>
               <a href="https://www.linkedin.com/in/dinesh-kottakota/" target="_blank" rel="noopener noreferrer" className="text-gray-700 hover:text-gray-900">
