@@ -8,7 +8,7 @@ export const projectsData: ProjectItem[] = [
     image: "tomato.png",
     tech: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
-    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/maih/",
+    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
     details: {
       "problem": "Complicated food ordering and payment processes.",
       "solution": "A streamlined platform for easy browsing, ordering, and secure payments.",
