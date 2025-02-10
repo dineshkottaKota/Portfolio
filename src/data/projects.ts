@@ -8,7 +8,7 @@ export const projectsData: ProjectItem[] = [
     image: "tomato.png",
     tech: ["React", "Node.js", "MongoDB", "Express.js"],
     github: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
-    live: "https://youtu.be/2XF-HgauItk?si=xnuz7_gpUVBBgdW6",
+    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/maih/",
     details: {
       "problem": "Complicated food ordering and payment processes.",
       "solution": "A streamlined platform for easy browsing, ordering, and secure payments.",
@@ -29,7 +29,7 @@ export const projectsData: ProjectItem[] = [
     image: "personalearn.jpg",
     tech: ["HTML", "JavaScript", "Tailwind CSS", "MySQL", "Vectorization"],
     github: "https://github.com/dineshkottaKota/Personalized-Learning-Management-System",
-    live: "https://your-website-link.com",
+    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
     details: {
         problem: "Learners struggle to find relevant courses tailored to their specific interests and goals",
         solution: "Built a platform that recommends courses from multiple sources based on user-entered interests and goals",
@@ -48,7 +48,7 @@ export const projectsData: ProjectItem[] = [
     image: "potato_leaf.jpg",
     tech: ["Python", "Flask", "JavaScript", "HTML", "CSS", "CNN"],
     github: "https://github.com/dineshkottaKota/potato-disease-classification",
-    live: "https://your-website-link.com",
+    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
     details: {
         problem: "Difficulty in identifying potato leaf diseases",
         solution: "Developed a CNN-based model for accurate classification with a user-friendly web interface",
@@ -67,7 +67,7 @@ export const projectsData: ProjectItem[] = [
     image: "object detection.jpg",
     tech: ["Next.js", "Tailwind CSS", "TensorFlow"],
     github: "https://github.com/dineshkottaKota/NextJs-AI-Object-Detection",
-    live: "https://youtu.be/R5dBYINNouY?si=9x7lSDuqwJ0ojtIg",
+    live: "https://github.com/dineshkottaKota/Food-Delivery-App/tree/main",
     details: {
       problem: "Real-time object detection systems are often complex and challenging to deploy",
         solution: "Built an AI-powered real-time object detection platform with Next.js and TensorFlow",
