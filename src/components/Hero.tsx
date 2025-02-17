@@ -77,7 +77,7 @@ export default function Hero() {
             variants={fadeInUp}
           >
             <motion.a
-              href="https://drive.google.com/file/d/1drNhIDnasUNcM0qXZ_a0QGK589vCGRzs/view?usp=sharing"
+              href="https://drive.google.com/file/d/1Ce0I1YfFM3Jzfy54ePXhyEepe9qrIEsb/view?usp=sharing"
               target="_blank"
               className={`px-8 py-3 rounded-full text-white ${gradientBg} ${gradientHover} transition-all duration-300 shadow-lg shadow-purple-500/25`}
               whileHover={{ scale: 1.05 }}
